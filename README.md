@@ -1,2 +1,0 @@
-# Fiestatol
-Wedding Planning Website
